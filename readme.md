@@ -30,11 +30,7 @@ Abaixo você encontrará todos as informações necessárias para iniciar o seu 
 
 ## Objetivo - PicPay Simplificado
 
-Tem-se usuários comuns e lojistas, ambos têm carteira com dinheiro. Usuários podem enviar dinheiro (efetuar transações) para lojistas e entre usuários. 
-
-- Todo o processo começa com a criação de um Usuário. Um usuário pode ter mais de um tipo de conta vinculada a ele. De um Usuário (User), queremos saber seu Nome Completo, CPF, Número de Telefone, e-mail e Senha. CPFs e e-mails devem ser únicos no sistema. Sendo assim, seu sistema deve permitir apenas um cadastro com o mesmo CPF ou endereço de e-mail.
-
-- De um Lojista queremos saber a Razão Social, o Nome Fantasia, o CNPJ e seu Username, além do id de Usuário que será dono dessa conta.
+Tem-se **usuários comuns** e **lojistas**, ambos têm carteira com dinheiro. **Usuários comuns** podem enviar dinheiro (efetuar transações) para lojistas e entre **usuários comuns**. 
 
 - Serviço autorizador deve ser externo, use este mock (https://run.mocky.io/v3/8fafdd68-a090-496f-8c9a-3442cf30dae6).
 

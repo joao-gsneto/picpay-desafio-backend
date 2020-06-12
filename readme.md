@@ -80,7 +80,7 @@ Retorno
 - Organização do Código
 - Manutenibilidade do Código
 - Tratamento de erros
-- [Diagrama de sequencia](https://www.ateomomento.com.br/diagrama-de-sequencia-uml/) - salvar a imagem dentro da pasta /docs
+- [Diagrama de sequência](https://www.ateomomento.com.br/diagrama-de-sequencia-uml/) - salvar a imagem dentro da pasta /docs
 
 ## O que será um diferencial
 - Criação de imagem própria (Dockerfile)
@@ -88,6 +88,7 @@ Retorno
 - Testes unitários
 - Uso de Design Patters
 - Proposta de melhoria na arquitetura
+- Estratégias de cache
 
 ## Para o dia da avaliação
 Na data marcada pelo recrutador tenha sua aplicacao rodando na sua máquina local ou em algum serviço ne web (Ex: [Heroku](https://www.heroku.com/)).

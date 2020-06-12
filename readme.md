@@ -95,6 +95,7 @@ A correção qualitativa será durante a entrevista e levará em conta os seguin
 - Uso de Design Patters
 - Proposta de melhoria na arquitetura
 - Estratégias de cache
+- Publicaçao na web (Ex: [Heroku](https://www.heroku.com/))
 
 ## Para o dia da avaliação
 Na data marcada pelo recrutador tenha sua aplicacao rodando na sua máquina local ou em algum serviço ne web (Ex: [Heroku](https://www.heroku.com/)).

@@ -30,7 +30,7 @@ Abaixo você encontrará todos as informações necessárias para iniciar o seu 
 
 ## Objetivo - PicPay Simplificado
 
-Tem-se usuários comuns e lojistas, ambos têm carteira com dinheiro. Usuários podem enviar dinheiro (efetuar transações) para lojistas e entre usuários. 
+Tem-se **usuários comuns** e **lojistas**, ambos têm carteira com dinheiro. **Usuários comuns** podem enviar dinheiro (efetuar transações) para lojistas e entre **usuários comuns**. 
 
 - Todo o processo começa com a criação de um Usuário. Um usuário pode ter mais de um tipo de conta vinculada a ele. De um Usuário (User), queremos saber seu Nome Completo, CPF, Número de Telefone, e-mail e Senha. CPFs e e-mails devem ser únicos no sistema. Sendo assim, seu sistema deve permitir apenas um cadastro com o mesmo CPF ou endereço de e-mail.
 

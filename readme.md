@@ -71,7 +71,6 @@ Retorno
 
 
 ## O que será avaliado
-- Arquitetura
 - Uso de features do framework
 - Modelagem de Dados
 - Domínio da Linguagem
@@ -80,7 +79,6 @@ Retorno
 - Organização do Código
 - Manutenibilidade do Código
 - Tratamento de erros
-- [Diagrama de sequencia](https://www.ateomomento.com.br/diagrama-de-sequencia-uml/) - salvar a imagem dentro da pasta /docs
 
 ## O que será um diferencial
 - Criação de imagem própria (Dockerfile)
@@ -90,7 +88,7 @@ Retorno
 - Proposta de melhoria na arquitetura
 
 ## Para o dia da avaliação
-Na data marcada pelo recrutador tenha sua aplicacao rodando na sua máquina local ou em algum serviço ne web (Ex: [Heroku](https://www.heroku.com/)).
+Na data marcada pelo recrutador tenha sua aplicacao rodando na sua máquina local.
 
 ## Documentação Laravel
 

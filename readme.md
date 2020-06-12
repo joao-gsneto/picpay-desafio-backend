@@ -40,8 +40,6 @@ Tem-se **usuários comuns** e **lojistas**, ambos têm carteira com dinheiro. **
 
 - A operação de transferência deve ser uma transação (ou seja, revertida em qualquer caso de inconsistência) e o dinheiro deve voltar para a carteira do usuário que envia. 
 
-- No recebimento de pagamento, o usuário ou lojista precisa receber notificação enviada por um serviço de terceiro e eventualmente pode estar indisponível (https://run.mocky.io/v3/b19f7b9f-9cbf-4fc6-ad22-dc30601aec04). 
-
 - Esse serviço funciona via interface RESTful. 
 
 ### Payload
@@ -79,9 +77,8 @@ Retorno
 ## O que será um diferencial
 - Criação de imagem própria (Dockerfile)
 - Testes de integração
-- Testes unitários
 - Uso de Design Patters
-- Proposta de melhoria na arquitetura
+- No recebimento de pagamento, o usuário ou lojista precisa receber notificação enviada por um serviço de terceiro e eventualmente pode estar indisponível (https://run.mocky.io/v3/b19f7b9f-9cbf-4fc6-ad22-dc30601aec04). 
 
 ## Para o dia da avaliação
 Na data marcada pelo recrutador tenha sua aplicacao rodando na sua máquina local.

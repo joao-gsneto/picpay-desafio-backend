@@ -42,6 +42,9 @@ Tem-se **usuários comuns** e **lojistas**, ambos têm carteira com dinheiro. **
 
 - Esse serviço funciona via interface RESTful. 
 
+![image](https://user-images.githubusercontent.com/18670067/84683252-5264e100-af0d-11ea-927f-fec30fc26ffa.png)
+
+
 ### Payload
 
 POST /transaction
